@@ -48,4 +48,4 @@ Active project — currently expanding toward synchronized motion analysis using
 
 ## Poster
 
-![KendoSense Poster](KendoSense_poster.png)
+![KendoSense Poster](KendoSense_Poster.png)
